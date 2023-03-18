@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url("forest.jpg");
+   background-repeat:no-repeat ;
+  background-size:100%;
+  background-position: center;
+  background-attachment:fixed ;
+
+}
